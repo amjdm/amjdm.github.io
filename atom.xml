@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>/Users/Jeremy5881/Documents/Gridea/output</id>
+    <id>https://amjdm.github.io</id>
     <title></title>
-    <updated>2019-05-28T13:49:07.104Z</updated>
+    <updated>2019-05-28T14:05:12.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="/Users/Jeremy5881/Documents/Gridea/output"/>
-    <link rel="self" href="/Users/Jeremy5881/Documents/Gridea/output/atom.xml"/>
-    <logo>/Users/Jeremy5881/Documents/Gridea/output/images/avatar.png</logo>
-    <icon>/Users/Jeremy5881/Documents/Gridea/output/favicon.ico</icon>
+    <link rel="alternate" href="https://amjdm.github.io"/>
+    <link rel="self" href="https://amjdm.github.io/atom.xml"/>
+    <logo>https://amjdm.github.io/images/avatar.png</logo>
+    <icon>https://amjdm.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, </rights>
     <entry>
         <title type="html"><![CDATA[ AMJ Hub]]></title>
-        <id>/Users/Jeremy5881/Documents/Gridea/output/post/hello-gridea/index.html</id>
-        <link href="/Users/Jeremy5881/Documents/Gridea/output/post/hello-gridea/index.html">
+        <id>https://amjdm.github.io/post/hello-gridea</id>
+        <link href="https://amjdm.github.io/post/hello-gridea">
         </link>
         <updated>2019-06-01T04:46:57.000Z</updated>
         <summary type="html"><![CDATA[<p>hi 欢迎来到 <strong>AMJ Hub</strong> ！</p>
